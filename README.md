@@ -1,3 +1,1 @@
 The purpose of this project is to setup a github/gitlab repo, in order to setup and test claude code's remote workflow. In other words, setup publicly available repo, work on it with claude code on macbook, continue working on it from the iPhone, and document the findings.
-
-Last updated: 2026-03-11
